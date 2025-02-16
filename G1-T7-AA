@@ -1,0 +1,19 @@
+int Employee#
+string Lastname
+string Firstname
+string birthday
+string address
+string phone number
+string SSS
+int philhealth#
+string TIN#
+int pag-ibig#
+string status
+string position
+string immediatesupervisor
+double BasicSalary
+double rice subsidy
+double PhoneAllowance
+double ClothingAllowance
+double Gross Semi-Monthly Rate
+double Hourly Rates
